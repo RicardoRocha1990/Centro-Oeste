@@ -55,6 +55,5 @@ Se você quiser contribuir para este projeto, fique à vontade para abrir um pul
 
 **#centrooeste #brasil #webdev #javascript #html #css**
 
-**[Adicione aqui um GIF animado ou uma imagem que represente a região Centro-Oeste]**
 
 **Observação:** Adapte este README.md para incluir informações mais específicas sobre o seu projeto, como tecnologias adicionais, dependências, e instruções de instalação.
